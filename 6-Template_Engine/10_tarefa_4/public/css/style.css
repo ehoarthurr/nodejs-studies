@@ -1,0 +1,9 @@
+.products {
+  display: flex;
+  gap: 1rem;
+}
+
+.product {
+  padding: 1rem;
+  border: 1px solid gray;
+}
